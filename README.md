@@ -15,21 +15,20 @@ I'm a final-year (MPhys) Astrophysics student at the University of Edinburgh. I 
 
 ## Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Real-Time ML Classification**](https://github.com/grxcetait/masters) | MPhys project (CERN ATLAS): a neural-network filter that finds the one relevant collision among ~200 background collisions within 10 µs, using data from two sensor systems | Python, PyTorch, GNNs / transformers |
-| [**Signal Extraction from Noisy Data**](https://github.com/grxcetait/senior_honours_project) | Senior Honours project: compares PCA and Gaussian Process Regression for recovering a faint signal under ~10,000× stronger contamination, with a custom GP kernel tuned by Bayesian MCMC | Python, NumPy, SciPy |
-| [**Exoplanet Telescope Group Project**](https://github.com/siddhantpujni/exoplanets_TGP) | Joint Bayesian MCMC model of two datasets that recovered a planet's mass from one cloudy night of observations | Python, MCMC |
-| [**Data Analysis & Machine Learning**](https://github.com/grxcetait/daml) | Coursework from the DAML module | Python, PyTorch |
-| [**Modelling & Visualisation**](https://github.com/grxcetait/mvp) | Coursework from the Modelling & Visualisation in Physics module | Python, Matplotlib |
+- [**Real-Time ML Classification**](https://github.com/grxcetait/masters): MPhys project (CERN ATLAS): a neural-network filter that finds the one relevant collision among ~200 background collisions within 10 µs, using data from two sensor systems
+- [**Signal Extraction from Noisy Data**](https://github.com/grxcetait/senior_honours_project): Senior Honours project: compares PCA and Gaussian Process Regression for recovering a faint signal under ~10,000× stronger contamination, with a custom GP kernel tuned by Bayesian MCMC
+- [**Exoplanet Telescope Group Project**](https://github.com/siddhantpujni/exoplanets_TGP): Joint Bayesian MCMC model of two datasets that recovered a planet's mass from one cloudy night of observations
+- [**Data Analysis & Machine Learning**](https://github.com/grxcetait/daml): Coursework from the DAML module
+- [**Modelling & Visualisation**](https://github.com/grxcetait/mvp): Coursework from the Modelling & Visualisation in Physics module
 
 ## Skills
 
 - Python, Bash, LaTeX
+- PyTorch, NumPy, SciPy, Matplotlib
 - Some experience with C++ and R
 
 ## Fun facts
 
-- Training for the Edinburgh Half Marathon in May 2027 🏃‍♀️ alongside weight lifting 🏋️‍♀️ 
+- Training for the Edinburgh Half Marathon in May 2027 🏃‍♀️ alongside weightlifting 🏋️‍♀️ 
 - Spent the past three summers working in a wee ice cream box 🍦 
 - Originally from Aberdeen 🏔️ 
